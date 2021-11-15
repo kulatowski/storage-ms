@@ -1,0 +1,10 @@
+server:
+  port: 9090
+azure:
+  app:
+    clientId:
+    clientSecret:
+    tenantId:
+    userId:
+    searchPath: /
+

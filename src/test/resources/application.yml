@@ -1,0 +1,8 @@
+azure:
+  app:
+    clientId: 1111
+    clientSecret: 2222
+    tenantId: 3333
+    userId: 4444
+    searchPath: /
+

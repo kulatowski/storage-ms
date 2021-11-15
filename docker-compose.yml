@@ -1,0 +1,8 @@
+services:
+  storage-ms:
+    image: 'storage-ms:latest'
+    build:
+      context: .
+    container_name: storage-ms
+    ports:
+      - "9090:9090"
